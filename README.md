@@ -9,9 +9,9 @@ I'm Hannah Anonuevo, a 21-year-old graduating Computer Science student specializ
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hannah-a%C3%B1onuevo-b3ab241b7/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hannah.m.anonuevo@gmail.com):hannah.m.anonuevo@gmail.com
+[![hannah.m.anonuevo@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hannah.m.anonuevo@gmail.com)
 
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+639955142143):+63 9955142143
+[![+639955142143](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+639955142143)
 
 Work Experience:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
