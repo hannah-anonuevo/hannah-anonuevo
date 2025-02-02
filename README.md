@@ -17,8 +17,6 @@ hannah.m.anonuevo@gmail.com
 
 Work Experience:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-Project Support (Data Analyst) Intern @ ECC International (Present)
-
 Part-Time Data Analyst @ Infivex (2024)
 
 Data Analyst Intern @ Association of Development Financing Institutions in Asia and the Pacific (2024)
